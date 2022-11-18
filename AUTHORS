@@ -1,0 +1,7 @@
+- Jenny Benois-Pineau
+- Romain Bourqui
+- Kazi Ahmed Asif Fuad
+- Romain Giot
+- Pierre-Etienne Martin
+- Akka Zemmari
+- Alexey Zhukov

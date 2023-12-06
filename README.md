@@ -7,6 +7,9 @@ The presentation is inspired by the [Gradcam example of Keras](https://keras.io/
 
 The method is fast as it relies only on activation values of the last convolution layer, do not rely on backpropagation or dedicated rules, and is class-agnostic.
 
+![image](https://github.com/labribkb/fem/assets/400372/79ee7899-6c10-4430-903f-7fccdf8bcc54)
+
+
 This work has been published at IPTA 2020:
 
     Fuad, K. A. A., Martin, P. E., Giot, R., Bourqui, R., Benois-Pineau, J., & Zemmari, A. (2020, November). 
